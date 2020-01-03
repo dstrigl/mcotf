@@ -16,7 +16,7 @@ So, the overall procedure is as follows:
 * Download the source code of the tool.
 * Edit ``mcotf.cpp`` and encode your NBA directly inside the source file.
 * Build the executable using ``make``.
-* Run the tool ``./mcotf >output.tex`` to produce the LaTeX document.
+* Run the tool ``./mcotf > output.tex`` to produce the LaTeX document.
 * Call ``pdflatex output.tex`` to create a PDF file from the LaTeX output.
 * Enjoy while reading ``output.pdf``.
 
